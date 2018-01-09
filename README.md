@@ -1,3 +1,3 @@
 # harshranpariya.github.io
 
-This website defines me
+This website has all information about my activities.
